@@ -23,7 +23,7 @@
 </div><!--contentdeko-->
 <div class="blend"><br /></div>
 
-<?php comments_template(); 
+<?php comments_template(); ?>
 
 <?php endwhile; ?>
 
