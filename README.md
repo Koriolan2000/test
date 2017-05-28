@@ -1,3 +1,3 @@
-# test
-Test repozytorium GitHub
-To jest dodana linia
+# To jest repozytorium Wordpress.
+# Portal Galetia ?wiadomo?ci
+#
