@@ -1,3 +1,3 @@
 # To jest repozytorium Wordpress.
-# Portal Galetia ?wiadomo?ci
+# Portal Galeria Świadomości
 #
